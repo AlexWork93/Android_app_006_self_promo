@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Android_app_006_self_promo</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="contact_display_name">Contact Display Name</string>
+    <string name="junior">Junior</string>
+    <string name="start_immediately">Start Immediately</string>
+    <string name="preview_message">PREVIEW MESSAGE</string>
+    <string name="available_from_date">Available from date</string>
 </resources>
