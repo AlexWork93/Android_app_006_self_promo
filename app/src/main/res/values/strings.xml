@@ -7,4 +7,5 @@
     <string name="start_immediately">Start Immediately</string>
     <string name="preview_message">PREVIEW MESSAGE</string>
     <string name="available_from_date">Available from date</string>
+    <string name="submit">Submit</string>
 </resources>
